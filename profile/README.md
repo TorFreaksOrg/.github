@@ -3,7 +3,7 @@
 👩‍💻 - Links: [torfreaks.org](https://www.torfreaks.org) (🏗️ in the works) <br>
 
 💵 Donation <br>
-Bitcoin - 13KWEMWS94jw6iP6XThJ1kDqrvDWxuXfzR <br>
+Bitcoin/BitcoinCash - 13KWEMWS94jw6iP6XThJ1kDqrvDWxuXfzR <br>
 Monero - 465Q2wcdnY1WWDhQuD51iyNVYFd3NKaHJLyyWjrHF6joesfPddpi3WNfQsZnw9fHpePoEGmJVHacQPLZoaZxj4C2Dz1NFMt <br>
 
 <!--
