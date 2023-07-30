@@ -1,6 +1,6 @@
 ## Hi there 👋
 🙋‍♀️ - We are Tor Freaks. A group of people who develop anonymous tools online using Tor! We also provide general tips for Tor and how to keep yourself anonymous. <br>
-👩‍💻 - Links: [torfreaks.org](https://www.torfreaks.org) (🏗️ in the works) <br>
+👩‍💻 - Links: [torfreaks.org](https://www.torfreaks.org) (🏗️ in the works), [Out Telegram](https://telegram.torfreaks.org) <br>
 
 💵 Donation <br>
 Bitcoin/BitcoinCash - 13KWEMWS94jw6iP6XThJ1kDqrvDWxuXfzR <br>
